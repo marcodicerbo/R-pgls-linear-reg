@@ -1,1 +1,1 @@
-###Linear regression & Phylogenetic Generalized Least Squares (PGLS)
+### Linear regression & Phylogenetic Generalized Least Squares (PGLS)
