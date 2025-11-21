@@ -1,1 +1,3 @@
 ### Linear regression & Phylogenetic Generalized Least Squares (PGLS)
+Linear regression was used to try to understand which species were closest using characteristics such as sepal length and width. The datasets are already available in R and do not need to be imported.  
+PGLS is a comparative method used to analyze data between different species by taking into account their evolutionary relationships, based on the assumption that more closely related species tend to have more similar traits. In this case, it has been used to analyze the evolutionary relationships of cetaceans taking into account the relationship between mass and brain.
